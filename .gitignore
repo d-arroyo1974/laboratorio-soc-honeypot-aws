@@ -1,0 +1,15 @@
+# --- Keys & Credentials ---
+*.pem
+*.ppk
+*.key
+id_rsa
+id_rsa.pub
+
+# --- System & Editor files ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+__pycache__/
+*.pyc
